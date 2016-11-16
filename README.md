@@ -1,4 +1,4 @@
-#Communication Protocols Project - XMPP Proxy#
+#Chinese Whispers - XMPP Proxy#
 
 ##Packaging & Running##
 1. Clone the project
